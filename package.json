@@ -12,6 +12,6 @@
     "backbone": "^1.4.0",
     "bootstrap": "^4.4.1",
     "handlebars": "^4.7.3",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
